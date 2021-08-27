@@ -11,6 +11,7 @@ public class ExemploMain {
 		System.out.println(e.b);
 		System.out.println(e.c);
 		System.out.println("teste");
+		System.out.println("teste");
 
 	}
 
